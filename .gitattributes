@@ -1,5 +1,5 @@
 * text=auto
-
+// also import another files
 # Known text file extensions
 *.as text
 *.bat text
